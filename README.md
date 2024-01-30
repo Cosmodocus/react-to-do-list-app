@@ -8,7 +8,8 @@
   - save the data of each task(localStorage)
   - add a checked off click event listener
   - more content
-  - more design increments for better UI/UX 
+  - more design increments for better UI/UX
+  - responsive design
 
 # Methods Used and Learnt(React):
  - State Management with useState hook
