@@ -1,8 +1,22 @@
-# React + Vite
+# To-Do-List Logic Added as of 01/30/24:
+  - add a task
+  - delete a task
+  - move a task up in priority
+  - move a task down in priority
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Future increments I plan to add:
+  - save the data of each task(localStorage)
+  - add a checked off click event listener
+  - more content
+  - more design increments for better UI/UX 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Methods Used and Learnt:
+  React:
+    - State Management with useState hook
+    - onClick
+    - onChange
+    - Conditional Rendering
+    - List Rendering(map, filter, trim)
+    - Updater Functions for best practice
+    - Array Destructuring 
+    - Spread operator 
