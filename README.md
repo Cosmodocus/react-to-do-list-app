@@ -10,13 +10,12 @@
   - more content
   - more design increments for better UI/UX 
 
-# Methods Used and Learnt:
-  React:
-    - State Management with useState hook
-    - onClick
-    - onChange
-    - Conditional Rendering
-    - List Rendering(map, filter, trim)
-    - Updater Functions for best practice
-    - Array Destructuring 
-    - Spread operator 
+# Methods Used and Learnt(React):
+ - State Management with useState hook
+ - onClick
+ - onChange
+ - Conditional Rendering
+ - List Rendering(map, filter, trim)
+ - Updater Functions for best practice
+ - Array Destructuring 
+ - Spread operator 
